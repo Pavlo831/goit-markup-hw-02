@@ -98,6 +98,8 @@ color: #404BBF;
 }
 
 .item-team {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 background-color: #F4F4FD;
 }
 .title-item-text {
