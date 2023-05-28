@@ -87,6 +87,7 @@ color: #404BBF;
   }   
 
 .title-list-subtitle {
+   background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.20;
@@ -94,7 +95,11 @@ color: #404BBF;
     color: #2E2F42;
 }
 
+.item-team {
+background-color: #F4F4FD;
+}
 .Stitle-item-text {
+  background-color: #FFFFFF;
   font-size: 16px;
   line-height: 1.50;
   letter-spacing: 0.02em;
@@ -105,6 +110,7 @@ color: #404BBF;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
+    
    
     text-align: center;
     letter-spacing: 0.02em;
