@@ -2,7 +2,9 @@ title {
 font-family: "Raleway";
 }
 body {
-font-family: "Roboto";
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 
 }
 .link { 
