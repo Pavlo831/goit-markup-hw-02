@@ -62,7 +62,7 @@ color: #404BBF;
 .hero-title {
                          font-weight: 700;
                          font-size: 56px;
-                        line-height: 1.07
+                        line-height: 1.07;
                         letter-spacing: 0.02em;
                         text-align: center;
                         letter-spacing: 0.02em;
@@ -71,14 +71,14 @@ color: #404BBF;
                         color: #FFFFFF;
 }
 .hero-btn {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
-    letter-spacing: 0.04em
+    letter-spacing: 0.04em;
     color: #FFFFFF;
     background: #4D5AE5;
-    cursor: pointer
+    cursor: pointer;
    }
   .hero-btn:hover,
   .hero-btn:focus{
