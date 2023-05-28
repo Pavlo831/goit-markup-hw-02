@@ -90,12 +90,14 @@ color: #404BBF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.20;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .Stitle-item-text {
   font-size: 16px;
   line-height: 1.50;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .item-title{
