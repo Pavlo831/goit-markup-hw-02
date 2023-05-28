@@ -1,0 +1,121 @@
+title {
+font-family: "Raleway";
+}
+body {
+font-family: "Roboto";
+
+}
+.link { 
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.header-logo {
+  
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+color: #2E2F42;                  
+}
+.header-logo span { 
+                       
+                                                
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+ color: #4D5AE5;
+}
+
+
+.header-menu-link {
+                        
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 1.50;
+                        color: #2E2F42;
+}
+.header-cont-link {
+    font-size: 16px;
+    line-height: 1.50;
+    color: #434455;
+}
+.header-menu-link:hover,
+.header-menu-link:focus {
+color: #404BBF;
+}
+.header-cont-link:hover,
+.header-cont-link:focus{
+color: #404BBF;
+}
+ 
+.hero-title {
+                         font-weight: 700;
+                         font-size: 56px;
+                        line-height: 1.07
+                        letter-spacing: 0.02em;
+                        text-align: center;
+                          letter-spacing: 0.02em;
+                                               
+                        
+                        color: #FFFFFF;
+}
+.hero-btn {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.50;
+    color: #FFFFFF;
+    background: #4D5AE5;
+   }
+  .hero-btn:hover,
+  .hero-btn:focus{
+    background: #404BBF;
+  }   
+
+.title-list-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.20;
+    color: #2E2F42;
+}
+
+.Stitle-item-text {
+  font-size: 16px;
+  line-height: 1.50;
+  color: #434455;
+}
+.item-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    /* identical to box height, or 111% */
+  
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+                   
+.footer-logo {
+
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  color: #2E2F42;
+}
+
+.footer-logo span {
+
+
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  color: #4D5AE5;
+}
+.footer-text{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.50;
+    color: #F4F4FD;
+}
