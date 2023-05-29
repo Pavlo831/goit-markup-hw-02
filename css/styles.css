@@ -91,13 +91,12 @@ font-family: "Roboto", sans-serif;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #4d5ae5;
-  background: #F4F4FD;
+  background: #ffffff;
   cursor: pointer;
 }
 .portfolio-btn:hover, 
 .portfolio-btn:focus {
 background: #404BBF;
-color:#FFFFFF ;
 }
 
 
