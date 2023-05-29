@@ -94,11 +94,7 @@ font-family: "Roboto", sans-serif;
   background: #F4F4FD;
   cursor: pointer;
 }
- .portfolio-btn:hover,
- .portfolio-btn:focus {
-  background: #404BBF;
-}
-
+ 
 .title-list-subtitle {
   background-color: #ffffff;
   font-weight: 500;
