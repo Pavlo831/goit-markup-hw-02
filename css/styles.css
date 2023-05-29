@@ -102,6 +102,7 @@ font-family: "Roboto", sans-serif;
 .portfolio-btn:hover, 
 .portfolio-btn:focus {
 background: #404BBF;
+color: #FFFFFF;
 }
 
 
