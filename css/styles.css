@@ -6,6 +6,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+:root{
+  --title-color:#2e2f42;
+}
 .link {
   text-decoration: none;
 }
